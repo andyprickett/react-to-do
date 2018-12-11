@@ -1,3 +1,9 @@
+As one knows, one must learn of the React with a ToDo app. This (extremely, yet charmingly) humble effort was part of my introduction to React. Will I ever beautify it? Make it fully-featured? One never knows.
+
+There is a live deployment [here](https://andyprickett-react-to-do.herokuapp.com/).
+
+---------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
